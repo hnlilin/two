@@ -3,6 +3,8 @@ package com;
 public class java {
   private String sdd;
   private String ff;
+  
+  private String f;
 public String getSdd() {
 	return sdd;
 }
